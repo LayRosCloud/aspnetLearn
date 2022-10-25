@@ -16,3 +16,11 @@ html {
 body {
   margin-bottom: 60px;
 }
+.makeYourOwnDiv{
+    background: #808080;
+    margin: 0;
+}
+.makeYourOwnText {
+    margin: 100px 0 20px 0;
+    color: white;
+}

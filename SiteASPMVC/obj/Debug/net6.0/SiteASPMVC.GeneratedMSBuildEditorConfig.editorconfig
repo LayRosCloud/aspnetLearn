@@ -8,37 +8,49 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SiteASPMVC
 build_property.RootNamespace = SiteASPMVC
-build_property.ProjectDir = C:\Users\betrayal\source\repos\SiteASPMVC\SiteASPMVC\
+build_property.ProjectDir = D:\Projects\aspnetLearn\SiteASPMVC\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\betrayal\source\repos\SiteASPMVC\SiteASPMVC
+build_property.MSBuildProjectDirectory = D:\Projects\aspnetLearn\SiteASPMVC
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/betrayal/source/repos/SiteASPMVC/SiteASPMVC/Views/Home/Index.cshtml]
+[D:/Projects/aspnetLearn/SiteASPMVC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/betrayal/source/repos/SiteASPMVC/SiteASPMVC/Views/Home/Privacy.cshtml]
+[D:/Projects/aspnetLearn/SiteASPMVC/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/betrayal/source/repos/SiteASPMVC/SiteASPMVC/Views/Shared/Error.cshtml]
+[D:/Projects/aspnetLearn/SiteASPMVC/Views/Pizzas/Checkout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGl6emFzXENoZWNrb3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/aspnetLearn/SiteASPMVC/Views/Pizzas/CustomPizza.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGl6emFzXEN1c3RvbVBpenphLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/aspnetLearn/SiteASPMVC/Views/Pizzas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGl6emFzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/aspnetLearn/SiteASPMVC/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/betrayal/source/repos/SiteASPMVC/SiteASPMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Projects/aspnetLearn/SiteASPMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/betrayal/source/repos/SiteASPMVC/SiteASPMVC/Views/_ViewImports.cshtml]
+[D:/Projects/aspnetLearn/SiteASPMVC/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/betrayal/source/repos/SiteASPMVC/SiteASPMVC/Views/_ViewStart.cshtml]
+[D:/Projects/aspnetLearn/SiteASPMVC/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/betrayal/source/repos/SiteASPMVC/SiteASPMVC/Views/Shared/_Layout.cshtml]
+[D:/Projects/aspnetLearn/SiteASPMVC/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-2fmfgm61dy

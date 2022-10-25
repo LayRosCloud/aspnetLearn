@@ -1,0 +1,14 @@
+﻿@model PizzaViewModel
+@{
+}
+<form>
+    <label class="text-black">Название: </label> 
+    <input class="form-control mb-1" placeholder="Введите название пиццы..." type="text" asp-for=Title/>
+    <input type="checkbox" asp-for=TomatoSauce class="form-check-input" placeholder="Томатный соус"/>
+    <label>Томатный соус</label>
+    <br/>
+    <input type="checkbox" asp-for=Cheese class="form-check-input" placeholder="Сыр"/>
+    <label>Сыр</label>
+    <br/>
+</form>
+<input type="submit" class="btn btn-primary" asp-controller="Pizzas" asp-action="Checkout">Закажи пиццу</input>

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "kpzs8oo0eBy1gcbZrJ+xTPqmFBHWUroN5g83r3N2k2U=",
+  "Hash": "cSQJbWdZffQ+CcvCcqpnbp9+b+Rdte5awt1StlolkLU=",
   "Source": "SiteASPMVC",
   "BasePath": "_content/SiteASPMVC",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "SiteASPMVC\\wwwroot",
       "Source": "SiteASPMVC",
-      "ContentRoot": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\",
       "BasePath": "_content/SiteASPMVC",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\obj\\Debug\\net6.0\\scopedcss\\bundle\\SiteASPMVC.styles.css",
+      "Identity": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\obj\\Debug\\net6.0\\scopedcss\\bundle\\SiteASPMVC.styles.css",
       "SourceId": "SiteASPMVC",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/SiteASPMVC",
       "RelativePath": "SiteASPMVC.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\obj\\Debug\\net6.0\\scopedcss\\bundle\\SiteASPMVC.styles.css"
+      "OriginalItemSpec": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\obj\\Debug\\net6.0\\scopedcss\\bundle\\SiteASPMVC.styles.css"
     },
     {
-      "Identity": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\SiteASPMVC.bundle.scp.css",
+      "Identity": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\SiteASPMVC.bundle.scp.css",
       "SourceId": "SiteASPMVC",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/SiteASPMVC",
       "RelativePath": "SiteASPMVC.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\SiteASPMVC.bundle.scp.css"
+      "OriginalItemSpec": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\SiteASPMVC.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\css\\site.css",
+      "Identity": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\css\\site.css",
       "SourceId": "SiteASPMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\",
       "BasePath": "_content/SiteASPMVC",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\favicon.ico",
+      "Identity": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\favicon.ico",
       "SourceId": "SiteASPMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\",
       "BasePath": "_content/SiteASPMVC",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -85,10 +85,214 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\js\\site.js",
+      "Identity": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\images\\Pizzas\\Bolognese.png",
       "SourceId": "SiteASPMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\",
+      "BasePath": "_content/SiteASPMVC",
+      "RelativePath": "images/Pizzas/Bolognese.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Pizzas\\Bolognese.png"
+    },
+    {
+      "Identity": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\images\\Pizzas\\Carbonara.png",
+      "SourceId": "SiteASPMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\",
+      "BasePath": "_content/SiteASPMVC",
+      "RelativePath": "images/Pizzas/Carbonara.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Pizzas\\Carbonara.png"
+    },
+    {
+      "Identity": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\images\\Pizzas\\Create.png",
+      "SourceId": "SiteASPMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\",
+      "BasePath": "_content/SiteASPMVC",
+      "RelativePath": "images/Pizzas/Create.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Pizzas\\Create.png"
+    },
+    {
+      "Identity": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\images\\Pizzas\\Create.zip",
+      "SourceId": "SiteASPMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\",
+      "BasePath": "_content/SiteASPMVC",
+      "RelativePath": "images/Pizzas/Create.zip",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Pizzas\\Create.zip"
+    },
+    {
+      "Identity": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\images\\Pizzas\\Hawaiian.png",
+      "SourceId": "SiteASPMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\",
+      "BasePath": "_content/SiteASPMVC",
+      "RelativePath": "images/Pizzas/Hawaiian.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Pizzas\\Hawaiian.png"
+    },
+    {
+      "Identity": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\images\\Pizzas\\Margerita.png",
+      "SourceId": "SiteASPMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\",
+      "BasePath": "_content/SiteASPMVC",
+      "RelativePath": "images/Pizzas/Margerita.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Pizzas\\Margerita.png"
+    },
+    {
+      "Identity": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\images\\Pizzas\\MeatFeast.png",
+      "SourceId": "SiteASPMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\",
+      "BasePath": "_content/SiteASPMVC",
+      "RelativePath": "images/Pizzas/MeatFeast.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Pizzas\\MeatFeast.png"
+    },
+    {
+      "Identity": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\images\\Pizzas\\Mushroom.png",
+      "SourceId": "SiteASPMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\",
+      "BasePath": "_content/SiteASPMVC",
+      "RelativePath": "images/Pizzas/Mushroom.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Pizzas\\Mushroom.png"
+    },
+    {
+      "Identity": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\images\\Pizzas\\Pepperoni.png",
+      "SourceId": "SiteASPMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\",
+      "BasePath": "_content/SiteASPMVC",
+      "RelativePath": "images/Pizzas/Pepperoni.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Pizzas\\Pepperoni.png"
+    },
+    {
+      "Identity": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\images\\Pizzas\\Seafood.png",
+      "SourceId": "SiteASPMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\",
+      "BasePath": "_content/SiteASPMVC",
+      "RelativePath": "images/Pizzas/Seafood.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Pizzas\\Seafood.png"
+    },
+    {
+      "Identity": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\images\\Pizzas\\Vegetarian.png",
+      "SourceId": "SiteASPMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\",
+      "BasePath": "_content/SiteASPMVC",
+      "RelativePath": "images/Pizzas/Vegetarian.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Pizzas\\Vegetarian.png"
+    },
+    {
+      "Identity": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\images\\PizzaTime.jpg",
+      "SourceId": "SiteASPMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\",
+      "BasePath": "_content/SiteASPMVC",
+      "RelativePath": "images/PizzaTime.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\PizzaTime.jpg"
+    },
+    {
+      "Identity": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\js\\site.js",
+      "SourceId": "SiteASPMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\",
       "BasePath": "_content/SiteASPMVC",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -102,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "SiteASPMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\",
       "BasePath": "_content/SiteASPMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -119,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "SiteASPMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\",
       "BasePath": "_content/SiteASPMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -136,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "SiteASPMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\",
       "BasePath": "_content/SiteASPMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -153,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "SiteASPMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\",
       "BasePath": "_content/SiteASPMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -170,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "SiteASPMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\",
       "BasePath": "_content/SiteASPMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -187,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "SiteASPMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\",
       "BasePath": "_content/SiteASPMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -204,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "SiteASPMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\",
       "BasePath": "_content/SiteASPMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -221,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "SiteASPMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\",
       "BasePath": "_content/SiteASPMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -238,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "SiteASPMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\",
       "BasePath": "_content/SiteASPMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -255,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "SiteASPMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\",
       "BasePath": "_content/SiteASPMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -272,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "SiteASPMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\",
       "BasePath": "_content/SiteASPMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -289,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "SiteASPMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\",
       "BasePath": "_content/SiteASPMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -306,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "SiteASPMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\",
       "BasePath": "_content/SiteASPMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -323,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "SiteASPMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\",
       "BasePath": "_content/SiteASPMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -340,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "SiteASPMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\",
       "BasePath": "_content/SiteASPMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -357,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "SiteASPMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\",
       "BasePath": "_content/SiteASPMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -374,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "SiteASPMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\",
       "BasePath": "_content/SiteASPMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -391,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "SiteASPMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\",
       "BasePath": "_content/SiteASPMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -408,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "SiteASPMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\",
       "BasePath": "_content/SiteASPMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -425,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "SiteASPMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\",
       "BasePath": "_content/SiteASPMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -442,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "SiteASPMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\",
       "BasePath": "_content/SiteASPMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -459,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "SiteASPMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\",
       "BasePath": "_content/SiteASPMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -476,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "SiteASPMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\",
       "BasePath": "_content/SiteASPMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -493,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "SiteASPMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\",
       "BasePath": "_content/SiteASPMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -510,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "SiteASPMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\",
       "BasePath": "_content/SiteASPMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -527,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "SiteASPMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\",
       "BasePath": "_content/SiteASPMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -544,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "SiteASPMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\",
       "BasePath": "_content/SiteASPMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -561,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "SiteASPMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\",
       "BasePath": "_content/SiteASPMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -578,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "SiteASPMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\",
       "BasePath": "_content/SiteASPMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -595,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "SiteASPMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\",
       "BasePath": "_content/SiteASPMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -612,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "SiteASPMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\",
       "BasePath": "_content/SiteASPMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -629,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "SiteASPMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\",
       "BasePath": "_content/SiteASPMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -646,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "SiteASPMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\",
       "BasePath": "_content/SiteASPMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -663,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "SiteASPMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\",
       "BasePath": "_content/SiteASPMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -680,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "SiteASPMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\",
       "BasePath": "_content/SiteASPMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -697,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "SiteASPMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\",
       "BasePath": "_content/SiteASPMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -714,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "SiteASPMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\",
       "BasePath": "_content/SiteASPMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -731,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "SiteASPMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\",
       "BasePath": "_content/SiteASPMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -748,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "SiteASPMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\",
       "BasePath": "_content/SiteASPMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -765,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "SiteASPMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\",
       "BasePath": "_content/SiteASPMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -782,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "SiteASPMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\",
       "BasePath": "_content/SiteASPMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -799,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "SiteASPMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\",
       "BasePath": "_content/SiteASPMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -816,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "SiteASPMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\",
       "BasePath": "_content/SiteASPMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -833,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "SiteASPMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\",
       "BasePath": "_content/SiteASPMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -850,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "SiteASPMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\",
       "BasePath": "_content/SiteASPMVC",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -867,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "SiteASPMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\",
       "BasePath": "_content/SiteASPMVC",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -884,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "SiteASPMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\",
       "BasePath": "_content/SiteASPMVC",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -901,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "SiteASPMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\",
       "BasePath": "_content/SiteASPMVC",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -918,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "SiteASPMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\",
       "BasePath": "_content/SiteASPMVC",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -935,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "SiteASPMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\",
       "BasePath": "_content/SiteASPMVC",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -952,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "SiteASPMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\",
       "BasePath": "_content/SiteASPMVC",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -969,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "SiteASPMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\",
       "BasePath": "_content/SiteASPMVC",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -986,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "SiteASPMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\",
       "BasePath": "_content/SiteASPMVC",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1003,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "SiteASPMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\",
       "BasePath": "_content/SiteASPMVC",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1020,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "SiteASPMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\",
       "BasePath": "_content/SiteASPMVC",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1037,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "SiteASPMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\",
       "BasePath": "_content/SiteASPMVC",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1054,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "SiteASPMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\betrayal\\source\\repos\\SiteASPMVC\\SiteASPMVC\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\aspnetLearn\\SiteASPMVC\\wwwroot\\",
       "BasePath": "_content/SiteASPMVC",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
